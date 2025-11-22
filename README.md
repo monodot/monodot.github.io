@@ -1,1 +1,3 @@
-# notices
+- [Nice Move Privacy Policy](./nice-move-privacy-policy)
+- [Nice Move Support](./nice-move-support)
+- [Basic Countdown Timer Privacy Policy](./basic-countdown-timer-privacy-policy)
