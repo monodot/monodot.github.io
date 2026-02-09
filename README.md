@@ -1,3 +1,5 @@
 - [Nice Move Privacy Policy](./nice-move-privacy-policy)
 - [Nice Move Support](./nice-move-support)
 - [Basic Countdown Timer Privacy Policy](./basic-countdown-timer-privacy-policy)
+- [Walk There Privacy Policy](./walk-there-privacy-policy)
+- [Walk There Support](./walk-there-support)
